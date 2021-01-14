@@ -1,0 +1,52 @@
+
+{
+    "pizzeria":[
+    { "name":"Pizza Junior", "img-url":"test.jpg","price":"14$"},
+    { "name":"Pizza Sénior", "img-url":"test.jpg","price":"14$"},
+    { "name":"Pizza Méga", "img-url":"test.jpg","price":"14$"}
+    ],
+   "cafe":[
+    { "name":"Café simple", "img-url":"test.jpg","price":"14$"},
+    { "name":"Café double", "img-url":"test.jpg","price":"14$"},
+    { "name":"Café Capsule", "img-url":"test.jpg","price":"14$"},
+    { "name":"Café Latté", "img-url":"test.jpg","price":"14$"},
+    { "name":"Cappuccino", "img-url":"test.jpg","price":"14$"},
+    { "name":"Lait Chocolat", "img-url":"test.jpg","price":"14$"},
+    { "name":"Thé à la ververine", "img-url":"test.jpg","price":"14$"},
+    { "name":"Thé à la menthe", "img-url":"test.jpg","price":"14$"},
+    { "name":"Thé glacé", "img-url":"test.jpg","price":"14$"},
+    { "name":"Lait chaud", "img-url":"test.jpg","price":"14$"}
+  ],
+  "glace":[
+    { "name":"Glace au chocolat", "img-url":"test.jpg","price":"14$"},
+    { "name":"Glace classique", "img-url":"test.jpg","price":"14$"},
+    { "name":" Glace pistache et vanille", "img-url":"test.jpg","price":"14$"},
+    { "name":"Glace Amande et vanille", "img-url":"test.jpg","price":"14$"},
+    { "name":"Glace aux smarties", "img-url":"test.jpg","price":"14$"}
+  ],
+  "boissons":[
+    { "name":"Coca-cola", "img-url":"test.jpg","price":"14$"},
+    { "name":"Fanta", "img-url":"test.jpg","price":"14$"},
+    { "name":"Huawai", "img-url":"test.jpg","price":"14$"},
+    { "name":"Orangina", "img-url":"test.jpg","price":"14$"},
+    { "name":"Eau mineral", "img-url":"test.jpg","price":"14$"},
+    { "name":"Jus d’orange", "img-url":"test.jpg","price":"14$"},
+    { "name":"Jus de lait aux amandes", "img-url":"test.jpg","price":"14$"},
+    { "name":"Smoothie", "img-url":"test.jpg","price":"14$"}
+  ],
+  "restaurant":[
+    { "name":"Salade niçoise", "img-url":"test.jpg","price":"14$"},
+    { "name":"Salade marocaine", "img-url":"test.jpg","price":"14$"},
+    { "name":"Salade César", "img-url":"test.jpg","price":"14$"},
+    { "name":"Plat Poulet au Four", "img-url":"test.jpg","price":"14$"},
+    { "name":"Plat Poisson à la Plancha", "img-url":"test.jpg","price":"14$"},
+    { "name":"Plat Viande hachée Boulettes", "img-url":"test.jpg","price":"14$"}
+  ],
+  "divers":[
+    { "name":"Clinex", "img-url":"test.jpg","price":"14$"},
+    { "name":"Briquet", "img-url":"test.jpg","price":"14$"},
+    { "name":"Kinder Surprise", "img-url":"test.jpg","price":"14$"},
+    { "name":"Chuopa Chup", "img-url":"test.jpg","price":"14$"},
+    { "name":"Snikers", "img-url":"test.jpg","price":"14$"}
+  ]
+}
